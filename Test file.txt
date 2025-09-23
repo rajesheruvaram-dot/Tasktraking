@@ -1,2 +1,3 @@
-Helow world
-Helow Bangalore
+Hello world
+Hello Bangalore
+Hello Chittoor
